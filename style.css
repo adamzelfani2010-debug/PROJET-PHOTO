@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f0f0; /* 1 */
+    color: #333333;           /* 2 */
+    font-family: Arial;       /* 3 */
+    margin: 40px;             /* 4 */
+}
+
+h1 {
+    color: darkblue;          /* 5 */
+    text-align: center;       /* 6 */
+    border-bottom: 2px solid; /* 7 */
+}
+
+nav {
+    background: white;        /* 8 */
+    padding: 15px;            /* 9 */
+    text-decoration: none;    /* 10 */
+}
